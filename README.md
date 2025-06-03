@@ -10,6 +10,7 @@ This project is a technical challenge that recreates an animated interactive car
 
 - **React (Next.js)**
 - **Tailwind CSS**
+- **Shadcn**
 - **TypeScript**
 
 ## 🚀 Features
