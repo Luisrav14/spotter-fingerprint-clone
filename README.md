@@ -23,8 +23,8 @@ This project is a technical challenge that recreates an animated interactive car
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/technical-challenge-card.git
-cd technical-challenge-card
+git clone https://github.com/Luisrav14/spotter-fingerprint-clone
+cd spotter-fingerprint-clone
 
 # 2. Install dependencies
 npm install
